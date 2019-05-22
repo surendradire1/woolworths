@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82099" started-at="2019-05-21T09:07:25Z" finished-at="2019-05-21T09:08:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82099" started-at="2019-05-21T09:07:25Z" finished-at="2019-05-21T09:08:48Z">
+      <class name="no_bdd.EbayCartFeatures">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:no_bdd.EbayCartFeatures@61832929]" name="initialSetup" is-config="true" duration-ms="9799" started-at="2019-05-21T09:07:25Z" finished-at="2019-05-21T09:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="test001_VerifyCartFeature()[pri:0, instance:no_bdd.EbayCartFeatures@61832929]" name="test001_VerifyCartFeature" duration-ms="72167" started-at="2019-05-21T09:07:35Z" finished-at="2019-05-21T09:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001_VerifyCartFeature -->
+        <test-method status="PASS" signature="closerActivities()[pri:0, instance:no_bdd.EbayCartFeatures@61832929]" name="closerActivities" is-config="true" duration-ms="88" started-at="2019-05-21T09:08:47Z" finished-at="2019-05-21T09:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closerActivities -->
+      </class> <!-- no_bdd.EbayCartFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
