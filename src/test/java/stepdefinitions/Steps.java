@@ -12,7 +12,7 @@ import pages.Home;
 
 public class Steps {
 	
-	String chromedriver="C:/Woolworths/ProjectAutomation/src/test/java/Drivers/chromedriver.exe";
+	String chromedriver="./src/test/java/Drivers/chromedriver.exe";
 	String appurl="https://www.ebay.com.au";
 	WebDriver driver;
 	Home objPage;
